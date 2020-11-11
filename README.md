@@ -6,6 +6,8 @@ demo repository for git workshop (pm course, **nov. 2020**)
 
 # Github desktop
 
+- git pull
+
 # Command line demo
 
 - git status
